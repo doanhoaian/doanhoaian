@@ -1,13 +1,13 @@
 ## Hello world, welcome to my profile👋
 
 <div id="badges" align="center">
-  <a href="">
+  <a href="https://facebook.com/doanhoaian05">
     <img src="https://img.shields.io/badge/Facebook-%C4%90o%C3%A0n%20Ho%C3%A0i%20%C3%82n-blue?style=flat&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
-  <a href="">
+  <a href="https://instagram.com/doanhoaian05">
     <img src="https://img.shields.io/badge/Instagram-%C4%90o%C3%A0n%20Ho%C3%A0i%20%C3%82n-orange?style=flat&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
   </a>
-  <a href="">
+  <a href="mailto:an.doan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-an.doan.dev@gmail.com-red?style=flat&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
@@ -31,19 +31,3 @@ I am a Android Developer from VietNam
 ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doanhoaian&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doanhoaian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**doanhoaian/doanhoaian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
