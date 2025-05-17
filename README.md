@@ -1,8 +1,6 @@
 ## Hello world, welcome to my profile👋
 
 <div id="badges" align="center">
-  <a href="https://facebook.com/doanhoaian05">
-    <img src="https://img.shields.io/badge/Facebook-%C4%90o%C3%A0n%20Ho%C3%A0i%20%C3%82n-blue?style=flat&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
   <a href="https://instagram.com/doanhoaian05">
     <img src="https://img.shields.io/badge/Instagram-%C4%90o%C3%A0n%20Ho%C3%A0i%20%C3%82n-orange?style=flat&logo=instagram&logoColor=orange" alt="Instagram Badge"/>
@@ -15,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Android Developer from VietNam
+I'm a E2E Mobile App Developer
 
 ---
 
